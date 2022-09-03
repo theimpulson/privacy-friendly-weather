@@ -87,8 +87,8 @@ dependencies {
 
     implementation 'com.diogobernardino:williamchart:2.2'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-    implementation 'androidx.appcompat:appcompat:1.4.2'
-    implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.appcompat:appcompat:1.5.0'
+    implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'com.j256.ormlite:ormlite-core:5.0'
     implementation 'com.j256.ormlite:ormlite-android:5.0'
